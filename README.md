@@ -1,2 +1,2 @@
-# Chitosemaru
+# chitosemaru
 Railsのチュートリアルで使ったサンプルアプリケーションです
