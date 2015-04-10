@@ -16,7 +16,7 @@
 /tmp
 
 # Igrenor ruby version configuration.
- /.ruby-version
+/.ruby-version
 
 # Ignore bundled contents.
 /vendor/bundle
