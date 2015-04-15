@@ -4,6 +4,12 @@ ruby '2.0.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.5'
 
+# Use Bootstrap-sass as the css template
+gem 'bootstrap-sass', '2.3.2.0'
+
+# Use Sprockets fo assets
+gem 'sprockets', '2.11.0'
+
 # Use postgresql as the database for Active Record
 gem 'pg'
 
